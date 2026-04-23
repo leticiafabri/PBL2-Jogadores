@@ -1,15 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b99f7a04-d481-4092-b415-4ab52f5c6d48" name="Changes" comment="" />
+    <list default="true" id="b99f7a04-d481-4092-b415-4ab52f5c6d48" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Jogador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TelaArvore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArvoreBinariaBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TreeUI.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "leticiafabri"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/leticiafabri/PBL2-Jogadores.git",
+    "accountId": "22610b0d-038d-4df5-8d5b-200dad290436"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3ClwlP7UCDImBPtOQ1ddR6HCU4n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -19,6 +45,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/leticiafabri/Desktop/PBL2-Jogadores/src/Main.java"
   }
