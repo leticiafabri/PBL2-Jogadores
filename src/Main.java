@@ -15,7 +15,7 @@ public class Main {
             String linha;
 
             br.readLine();
-
+//test
             while ((linha = br.readLine()) != null) {
 
                 String[] partes = linha.split(",");

@@ -8,7 +8,7 @@ public class TelaArvore extends JPanel {
     public TelaArvore(ArvoreBinariaBusca arvore) {
         this.arvore = arvore;
     }
-
+//test
     @Override
     protected void paintComponent(Graphics g) {
         super.paintComponent(g);
