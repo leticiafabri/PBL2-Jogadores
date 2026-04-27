@@ -15,7 +15,7 @@ public class Main {
             String linha;
 
             br.readLine();
-//test
+
             while ((linha = br.readLine()) != null) {
 
                 String[] partes = linha.split(",");
@@ -77,7 +77,9 @@ public class Main {
                 tela.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
 
                 TelaArvore painel = new TelaArvore(arvore);
-                tela.add(painel);
+                JScrollPane scroll = new JScrollPane(painel);
+
+                tela.add(scroll);
 
                 tela.setVisible(true);
             }
